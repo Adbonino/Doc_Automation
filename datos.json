@@ -1,0 +1,17 @@
+{
+    "tabla0" : [
+        {"nombre": "Juan", "apellido": "PM", "email": "juan@mail.com"},
+        {"nombre": "Ana", "apellido": "Dev", "email": "ana@mail.com"},
+        {"nombre": "Pepe", "apellido": "Perez", "email": "pepe@mail.com"},
+        {"nombre": "Damiam", "apellido": "Lorenzo", "email": "damian@mail.com"},
+        {"nombre": "Lucas", "apellido": "Sanchez", "email": "lucas@mail.com"},
+        {"nombre": "Tomas", "apellido": "Perez", "email": "tomas@mail.com"},
+        {"nombre": "Cristina", "apellido": "Dominguez", "email": "cristina@mail.com"}
+    ],
+
+    "tabla1" : [
+        {"nombre": "WebServer1", "ip": "10.54.100.102", "SO": "Red Hat 9.6","servicios":"frontend"},
+        {"nombre": "BackEnd", "ip": "10.54.100.104", "SO": "Red Hat 9.6","servicios":"backtend"},
+        {"nombre": "Clientes", "ip": "10.54.100.132", "SO": "CentOS 8","servicios":"db"}
+    ]
+}
